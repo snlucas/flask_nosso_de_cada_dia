@@ -1,2 +1,2 @@
-# hs-tutorial
-Hackers and Slackers Flask Tutorial
+# Flask Nosso de Cada Dia
+Minha trilha de estudos no universo Flask.
